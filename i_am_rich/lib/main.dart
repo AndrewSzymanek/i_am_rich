@@ -12,7 +12,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://images.unsplash.com/photo-1531366936337-7c912a4589a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
